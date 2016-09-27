@@ -16,3 +16,24 @@ Oooh let's do that one next?
 Come on gang, it's only the first chapter.  We're only getting to know these girls.
 
 And they feel kind of bland.  Hoepfully we'll get some dimension once we get start getting some plot.
+
+---
+No plot yet! 
+
+Well besides the whole "how do i get my sister married to a good husband and woe is my I am a spinster"
+
+I think the glamour thing's gonna be a great storyline.  Mr. Vincent will probably be a Wise Old Mentor type trope to Jane and she learns to be a great Glamourist.  
+
+The glamour thing is really the only thing doing it for me.
+
+It's not doing it for me...
+
+I like the quaint countryside drama!  
+
+And you're the only one.  Did I mention the only plot is the "how do i get my sister married to a good husband and woe is my I am a spinster"
+
+... yeah ..
+
+---
+
+
