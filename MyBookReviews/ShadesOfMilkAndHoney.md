@@ -36,4 +36,51 @@ And you're the only one.  Did I mention the only plot is the "how do i get my si
 
 ---
 
+So Mr. Vincent's not exactly the Wise Old Mentor, but totally is starting to serve out the role by giving Jane his notebook.  I wonder what the initals "VH" stands for? V obviously has to stand for Vincent.  Maybe it's the name of a man he's in love with and he took his name.  
+
+God, that sounds worse than the story in one of Beth's books.  
+
+Pssh let's talk about Mr. Livingston.  Of course he's having some clandestine thing with Melody, but with Beth too! Man this is even better than what I was expecting.
+
+Hang on, it's not been completely confirmed that Mr. Livingston's got a thing going on with Melody.
+
+Pretty much though, and probably multiple girls too.  It's actually pretty clever.  Messed up and unoriginal, but clever.
+
+How can one be clever _and_ unoriginal?
+
+This whole book is advertised as a copycat Jane Austen with magic.  
+
+I take that back.  
+
+Forget that romance crap!  This storyline with Mr. Vincent just got so so much better.  
+
+Fine.  Thoughts on what comes next?
+
+Totally rooting for a Mr. Vincent/Jane romance.
+
+FORGET THAT ROMANCE CRAP!
+
+...
+
+Actually, that would be kinda interesting.
+
+I liked the horses!
+
+Yeah, you're not reading the next book in this series with us.
+
+---
+
+Shit's gonna go down in Bath isn't it?
+
+What do you think?
+
+Livingston and Melody are going to elope! 
+
+I mean some shit's gonna go down with Jane and 'Edmund' while everyone's away.  
+
+Oh, sure that too.  
+
+Timing is key.  Jane and Mr. Dunkirk get it on, then they find out about Livingston and Beth and then about Livingston and Melody or the other way around.  
+
+I'm still hoping for a Jane and Mr. Vincent romance... but yeah shit's going down.
 
