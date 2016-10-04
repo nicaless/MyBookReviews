@@ -84,3 +84,22 @@ Timing is key.  Jane and Mr. Dunkirk get it on, then they find out about Livings
 
 I'm still hoping for a Jane and Mr. Vincent romance... but yeah shit's going down.
 
+---
+
+Well thank god no one eloped.
+
+And shit went down way before Bath happened.  
+
+And I'm so happy with the Jane and Vincent ending.  
+
+Totally called that Vincent is his first name!
+
+I wonder what will happen to the Dunkirks now.
+
+Who cares?  This series is about to get better now that all that ROMANCE CRAP is past and we can start getting down to the cool magic stuff.
+
+So we are reading the next one?
+
+My vote is yes!
+
+Ditto
