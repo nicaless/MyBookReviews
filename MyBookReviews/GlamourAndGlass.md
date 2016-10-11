@@ -1,4 +1,5 @@
-# First Meeting
+# First Meeting 
+## Chapter 1-9
 So, we all agreed we enjoyed the first book...
 
 We did?  
@@ -12,4 +13,24 @@ It actually started reading like a fanfiction to me.  Like, the couple you were 
 Well there definitely is that, but there's obviously more story brewing.  I'm eager to see where these clear Bonapartist tensions are going. 
 
 # Second Meeting  
+## Chapter 9-14
+Trouble in paradise it seems.
+
+Of course.  There has to be or we'd remain in fanfiction land for the rest of the book, and that's not fun.  
+
+Part of me wants to chock up Jane's paranoia to pregnancy hormones, and Vincent's dodginess to blackmail from Skiffy.
+
+... The latter would be far more interesting. ... Which is kinda unfair.
+
+Likely it's both.  
+
+Likely.
+
+Also likely, Jane has a miscarriage.  
+
+Yeah. As I said.  Kinda unfair.  
+
+On a happy note, that guy with the sheep.
+
+That guy with the sheep! My hero.  
 
