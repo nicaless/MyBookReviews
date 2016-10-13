@@ -34,3 +34,15 @@ On a happy note, that guy with the sheep.
 
 That guy with the sheep! My hero.  
 
+# Third Meeting
+## Chapter 14
+Slow week huh guys.
+
+Pivotal chapter though guys! A way to record glamour! We now know why it's called glamour in glass.  Can't believe we're more than halfway through the book.
+
+And yet the only plot we've had so far is the marriage troubles thing. ... Okay and the glamour in glass thing but whatever.
+
+I'm sure the way the two plot points come together will be interesting.  
+
+It better.    
+
