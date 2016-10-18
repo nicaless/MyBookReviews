@@ -46,3 +46,38 @@ I'm sure the way the two plot points come together will be interesting.
 
 It better.    
 
+# Fourth Meeting
+## Chapter 14-21.5
+THE SHEEP ARE CODE!
+
+COOLEST THING EVER! 
+
+Did not see that one coming, even though the sheep thing was quite peculiar. 
+
+Anyway, poor Vincent, but I'm a little confused: I thought it was established in the last book that glamour would be useless in the battlefield.
+
+I believe it has something to do with how the glamour folds or ties of the _Sphere Obscurcie_ come together.  It's a movable glamour.
+
+Ah makes sense, makes sense.  
+
+Also makes sense that the "spy" is Anne-Marie.  And hey, you totally called that that one soldier - Lieutenant Segal - would return.  
+
+Yeah but I was thinking he'd be more of a counter to Vincent for all the "trouble in paradise" issues we'd been seeing.
+
+And speaking of which, how badass is it that Jane - completely out of her element AND PREGNANT - is essentially taking on the whole Napolean army to get her husband back.  
+
+Yeah pretty badass, but the likely ending is that Lord Hamilton pays a ransom.  
+
+Indeed, but we shall see.  I just hope some hefty glamor is involved, a la the ending of the last book. 
+
+#Fifth Meeting
+## Chapter 21.5-24.5
+So we've now witnessed the "woman-cross-dressing-as-a-man" trope in two of Mary Robinette Kowal's books so far.
+
+Good trope.  Jane's a badass if that helps.  
+
+That rescue scene was awesome! Forget about Lord Hamilton and Lord Gilman and the Prince.  Jane's got this.  
+
+Don't speak too soon! Napolean may yet catch them in the rye.  
+
+ 
