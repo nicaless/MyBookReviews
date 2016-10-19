@@ -80,4 +80,27 @@ That rescue scene was awesome! Forget about Lord Hamilton and Lord Gilman and th
 
 Don't speak too soon! Napolean may yet catch them in the rye.  
 
+#Sixth Meeting
+## Chapter 24.5-End
+That was kinda sad.
+
+And rushed.  
+
+Ironic that Jane loses her baby while wearing men's clothing.
+
+I wouldn't read too much into that.  There was plenty of miscarriage foreshadowing.  
+
+Yeah, like the fact that there are at least two other books in the series that have summaries that don't in the least imply they have a child.  
+
+That's probably why the ending felt rushed.  Follow up books are kind of implied.  Why stress on a conclusive ending for this one?  
+
+Pfft.  That's kind of like cheating isn't it?  Any hopes for the next book?
+
+More about recording glamour.
+
+And probably a real aftermath to the events of this book?
+
+And a real honeymoon! 
+
+Well if that wasn't reason enough to read the next one... 
  
