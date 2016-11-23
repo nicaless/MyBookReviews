@@ -13,3 +13,24 @@ That would package things up a little too nicely.
 You did say we were reading a Downton Abbey and not a Jane Austen.  
 
 Well, I do really like the London setting.  
+
+#Second Meeting
+##Chapter 4.5-6.5
+Shall we place bets on who Melody will marry?
+
+Or what will become of Vincent and his sister when they finally reunite?
+
+I'm just here for the ride.  Well, I am a little disappointed we've gone back to glamurals and Tableau Vivents rather than experimentations with glamour recordings.
+
+Vincent did have that scene where he simulated the sound of explosions.  
+
+Kind of ironic right? When they were so adamant about explaining how glamour cannot actually explode anything.  
+
+Yes, we may yet see more cool glamour feats.  But this time I'm more interested in the drama, especially where this is more external drama as opposed to the internal marriage drama of the last book.
+
+Definitely liking this one better.  
+
+So, we're placing bets, right?
+
+# Third Meeting
+## Chapter 6.5-12
