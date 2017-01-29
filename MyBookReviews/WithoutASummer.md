@@ -33,4 +33,29 @@ Definitely liking this one better.
 So, we're placing bets, right?
 
 # Third Meeting
-## Chapter 6.5-12
+## Chapter 6.5-END
+
+Of course it was a volcano!  
+
+Once they dropped that hint with the volcano in the newspaper, it all made sense.  I was starting to get convinved that all this hammering on the head that "glamour can't effect the weather" was misleading us.  
+
+Did you think it was the coldmongers? You totally thought it was the coldmongers.  
+
+No I didn't!
+
+Will's death was so sad.  
+
+On a happier note, totally called Melody and Alastair were gonna get married!  
+
+Come on, no one was actually placing any bets against you for that.  
+
+That courtroom drama was awesome.  
+
+Totally.  Definitely my favorite book in the series so far!
+
+Well, the next book is supposed to have pi-
+
+Hey, no spoilers! 
+
+
+
