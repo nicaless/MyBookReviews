@@ -22,10 +22,31 @@ Anyway, we're about half-way through the second book in the trilogy, Ten Thousan
 
 Marguerite realizes all this destiny crap isn't real and Paul will have to rewrite his thesis?  
 
-I'm hoping for more Wyatt Conley backround and story presence.  
+I'm hoping for more Wyatt Conley background and story presence.  
 
 I'm betting, cliffhanger ending so we get suckered into buying the next book.  
 
 That was going to happen anyway. 
 
 You never know.  We're only half-way.  This book could turn out to be a bust.  
+
+## Second Meeting
+
+So far we've met a Marguerite who chose Theo over Paul, a Wyatt Conley who's in love with Josie, a Paul who's a Russian mobster.  Destiny is a fickle thing it seems.
+
+Such is the theme of the second book.  In the first book we were so convinced that Paul's hypothesis on destiny is true.  This one challenges that - typical trilogy cycle.  
+
+Yeah, but we as the reader were always pretty skeptical about that, especially since our narrator perspective in Marguerite was too easily convinced.  Your destiny should be made up by your choices, not by patterns in personality and character.  The whole reason for multiple dimensions is because of differing choices among individuals after all.  We knew as much in the first book.  
+
+Anyway, I was hoping for more Wyatt Conley page time, and we got it! Looking forward to this next section of the book.
+
+Me too! And this Russian mobster Paul is interesting in himself.  
+
+By the way, does anyone else find it unfair that we're getting to know Paul through other kinds of Paul.  We've already had more page time with the real Theo than Paul and Paul is supposed to be Marguerite's love interest.  Interesting deviation from the usual YA romance isn't it?  
+
+Well if we are following typical trilogy patterns, than that might remedied in the third book?
+
+Whoa let's not get ahead of ourselves!
+
+
+
