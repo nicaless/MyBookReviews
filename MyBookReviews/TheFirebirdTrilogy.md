@@ -49,4 +49,18 @@ Well if we are following typical trilogy patterns, than that might remedied in t
 Whoa let's not get ahead of ourselves!
 
 
+## Third Meeting
 
+Last book of the series.  How are we doing?  
+
+So glad Paul's back together now, and it should be interesting how he and Marguerite cope with this change in him.  We're finally getting to know him after only really getting to know pieces of him or other-world hims in the last book.
+
+Also, I'm liking this Wicked Marguerite person.  I'm a little annoyed with Wicked Theo, but I think that's the intention.  
+
+And we're continuing the discourse on the the whole "what is destiny" question too, which is always nice.  
+
+Does this book feel more action-y than the first two?  
+
+The second was definitely more action-y than the first.  This one maybe is on par, and I think it's more thrill-y?  And we just started too with just the couple new worlds we've visited.  
+
+Yeah, great start!
