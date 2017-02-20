@@ -64,3 +64,26 @@ Does this book feel more action-y than the first two?
 The second was definitely more action-y than the first.  This one maybe is on par, and I think it's more thrill-y?  And we just started too with just the couple new worlds we've visited.  
 
 Yeah, great start!
+
+## Final Meeting
+
+Epic wrap up to the trilogy!  
+
+Yeah, I'm going to miss the characters and the world.  
+
+Worlds.
+
+Best part was that clone scene by the way.  Totally need to rewatch Orphan Black now.  
+
+Yeah, seeing all the Marguerite's in one room was fun!  We'd been meeting all these different Paul's and Theo's and Josie's, it was about time we met all the Marguerite's "our" Marguerite had been traipsing around in.  Felt like the perfect culmination of one of the main themes of the series?
+
+Which was?  
+
+Your choices shape your destiny!
+
+And that, combined with the world around, shapes who you are!
+
+Wow, a true YA realization of self story.  
+
+Hah, that it is.  A truly enjoyable, worthwhile one at that.  
+
