@@ -1,5 +1,7 @@
 # Dragonoak
 
+## First Book - First Meeting
+
 So, tell us about this book.  Besides that it's rather obscure and sounds like a special healing tree bark that you'd find in a fantasy novel.
 
 Well, it's a fantasy novel - 
@@ -23,3 +25,36 @@ Eh, fair enough.
 Oh, I'm still enjoying it of course! A new world is always fascinating at the start.  We'll just have to see how the rest of the novel goes after this exposition piece is done.  
 
   
+## First Book - Second Meeting
+
+Ah so not only does the book have diverse characters, but it also addresses some diversity issues.  Mainly, prejudices and discrimination.  
+
+Ah, but we figured that out already.  
+
+Yeah, but just in case it wasn't blatant and in your face.
+
+Why can't we have a diverse story without having to also slog through the second hand shame or embarrassment of a character being an ass or being the butt of some other character being an ass.
+
+Come again now?
+
+It's because we can't have nice things yet.  Also because it's unrealistic.  
+
+This is a fantasy story!  
+
+Stories should reflect reality.  And a Knight deserting their duty, a young girl running away from home, those are real stories set in a fantasy world that are only interesting if the fantasy world is believable.  
+
+Pretty sure there's more to Sir Ightham's journey that deserting and dragons.  
+
+Of course, but that needs to unravel slowly.  
+
+Of course.  
+
+Anyway, we've also added Michael to our motley crew of adventurers.  
+
+He's annoying.
+
+I think he'll grow on us.  
+
+And every party should have a bard. 
+
+
