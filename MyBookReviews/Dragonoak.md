@@ -57,4 +57,30 @@ I think he'll grow on us.
 
 And every party should have a bard. 
 
+## First Book - Third Meeting
+
+So we finally find out that Sir Ightham's real name is Claire. 
+
+And she's a Princess!
+
+Forget Claire, Ran is Queen Kouris!
+
+Admittedly, we all should have anticipated that.
+
+And we still don't know everything.  We're a third into the book.  Shouldn't all the exposition be done by now?
+
+Nah, at this point, Claire and Ran's, excuse me, Kouris's intentions are baked into the plot as a mystery, and it's reveal will be another end of book twist.  
+
+These characters are awesome though.  I think that's what's selling this story and not the plot.  
+
+Indeed.  I'm perfectly happy with this slow reveal of details for these intriguing characters so long as the reveal keeps them interesting and awesome.    
+
+So what do you think is in store when we meen Queen Kidira?  
+
+Hopefully exactly what I said.  Reveal of more interesting details.
+
+I'm hoping we'll figure out what Rowan left her home for soon.  Of course there needs to be more than just interesting characters and worlds for a story to work.  We need a believable story, and right now traipsing about different towns and cities just because is not cutting it.  Yes, we get it.  It's a mystery, the characters don't want to reveal it because... because why?  Are we even brought to care?
+
+Hey, be patient.  The pace of the story has just changed.  Let's wait to see what that means for us readers.
+
 
