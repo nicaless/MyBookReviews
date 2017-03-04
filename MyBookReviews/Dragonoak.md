@@ -83,4 +83,18 @@ I'm hoping we'll figure out what Rowan left her home for soon.  Of course there 
 
 Hey, be patient.  The pace of the story has just changed.  Let's wait to see what that means for us readers.
 
+## First Book - Fourth Meeting
 
+They kissed!
+
+My goodness is that all we're going to talk about in this meeting?
+
+That slow burn was frustrating and will only get more frustrating I'm so happy with how this book is turning out!
+
+This is really all we're going to talk about in this meeting.  What about Claire's brother's betrothal to Kidira's daughter?
+
+THEY KISSED!
+
+Ok this meeting is over.
+
+## First Book - Fifth Meeting
