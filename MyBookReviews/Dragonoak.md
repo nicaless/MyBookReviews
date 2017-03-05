@@ -91,7 +91,7 @@ My goodness is that all we're going to talk about in this meeting?
 
 That slow burn was frustrating and will only get more frustrating I'm so happy with how this book is turning out!
 
-This is really all we're going to talk about in this meeting.  What about Claire's brother's betrothal to Kidira's daughter?
+This is really all we're going to talk about in this meeting.  What about Claire's brother's betrothal to Kidira's daughter? OR the fact the Kouris was actually _resurrected by a necromancer_!
 
 THEY KISSED!
 
@@ -106,5 +106,13 @@ Fits well with the themes of prejudice and racism in the book.  Everyone's afrai
 I hope that reason is revealed later though.  But I agree, it's probably something along the lines of, "The dragons are different, just like the pane.  And they're hiding in our lands, so... let's get a bunch of people to slay them.  Make sense."
 
 Totally.  Now can we finish the book to see if that's the case?
+
+Gee, tensions are high now that King Jonas is dead.  What's going to happen to Kastelir?
+
+## First Book - Sixth Meeting
+
+
+
+
 
 
