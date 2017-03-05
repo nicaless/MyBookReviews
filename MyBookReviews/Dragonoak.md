@@ -98,3 +98,13 @@ THEY KISSED!
 Ok this meeting is over.
 
 ## First Book - Fifth Meeting
+
+Well, that's interesting.  The reason that dragons are attacking Felheim is because the leaders ordered their slaying in the first place.  
+
+Fits well with the themes of prejudice and racism in the book.  Everyone's afraid of dragons because of the actions of a few, which were only provoked because some people wanted to get rid of them because they felt mildly threatened by them for no valid reason.  
+
+I hope that reason is revealed later though.  But I agree, it's probably something along the lines of, "The dragons are different, just like the pane.  And they're hiding in our lands, so... let's get a bunch of people to slay them.  Make sense."
+
+Totally.  Now can we finish the book to see if that's the case?
+
+
