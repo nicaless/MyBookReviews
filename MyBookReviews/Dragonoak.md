@@ -110,6 +110,18 @@ Totally.  Now can we finish the book to see if that's the case?
 Gee, tensions are high now that King Jonas is dead.  What's going to happen to Kastelir?
 
 ## First Book - Sixth Meeting
+Kastelir is gone!
+
+That was... a really sad ending.  And unsatisfying.  And did I mention sad.
+
+Don't dwell on the unsatisfying bit too much.  The story is not over, after all.  There are two more books in the series.  But overall, what do people think of Dragonoak: The Complete History of Kastelir?
+
+Complete history is right.  This book was nothing more than introduction of the world, the main conflict, the characters.  It was certainly more of a history book of this world and its cultures than a story.  I mean yes, there was a story, and the pacing of it wasn't the best, but it's incomplete, and not just because of the cliffhanger.  I don't feel fully engaged in the storyline yet, even though the world and characters have grabbed my attention.  That's just me though.
+
+I'd have to agree.  We should start the next book right away! 
+
+Yes, I would still recommend this book because it does feel fresh and new and exciting.  Definitely excted for part 2. 
+
 
 
 
