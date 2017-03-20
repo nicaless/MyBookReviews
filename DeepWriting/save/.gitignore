@@ -1,6 +1,6 @@
 # Ignore everything in this directory
 *
 # Except this file
-!save_ghosttalkers/
-!save_ghosttalkers/*/
+!DeepWriting/save/save_ghosttalkers/
+!DeepWriting/save/save_ghosttalkers/*
 !.gitignore
