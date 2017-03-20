@@ -1,5 +1,6 @@
-# Ignore everything in this directory
+#Ignore everything in this directory
 *
-# Except this file
-!DeepWriting/save/save_ghosttalkers/*
+# Except these files
 !.gitignore
+!save_ghosttalkers/config.pkl
+!words_vocab.pkl
