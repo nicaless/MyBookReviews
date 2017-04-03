@@ -14,7 +14,7 @@ library(optparse)
 #url <- "https://www.goodreads.com/book/show/18619684-the-time-traveler-s-wife#other_reviews"
 url <- "https://www.goodreads.com/book/show/26114291-ghost-talkers#other_reviews"
 book.title <- "Ghost Talkers"
-p = 50
+p = 100
 
 #output.dir <- paste0("../Deep Writing/data/", book.title) # for automation later
 #output.csv <- paste0(book.title, ".csv") # for automation later
@@ -49,7 +49,8 @@ for(i in 1:p) {
   
   # CLEAN REVIEWS
   reviews.text2 <- gsub("[^A-Za-z\\-]|\\.+", " ", reviews.text)
-  reviews.clean <- gsub("\n|[ \t]+", " ", reviews.text2) 
+  reviews.text3 <- gusb(" br ", " ", reviews.text2)
+  reviews.clean <- gsub("\n|[ \t]+", " ", reviews.text3) 
   
   # PUT REVIEWS IN TABLE
   n <- floor(length(reviews)/2)
@@ -95,7 +96,7 @@ for(i in 1:p) {
 }
 
 
-# CLEAN GLOBAL DF
+# SPLIT GLOBAL DF
 global.df$reviewer = unlist(lapply(global.df$reviewer,
                                    function(x) {
                                      unlist(strsplit(
@@ -121,7 +122,7 @@ global.df$review = unlist(lapply(global.df$review,
 #write.csv(global.df, output.filename.csv)
 write.csv(global.df, output.filename, row.names = F)
 
-write(global.df$review, file = "GhostTalkers.txt", sep = "\n")
+write(global.df$review, file = "GhostTalkers2.txt", sep = "\n")
 
 gc()
 
