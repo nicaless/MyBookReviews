@@ -16,7 +16,7 @@ def main():
                        help='data directory containing input.txt')
     parser.add_argument('--log_dir', type=str, default='logs',
                        help='directory containing tensorboard logs')
-    parser.add_argument('--save_dir', type=str, default='save/save_ghosttalkers',
+    parser.add_argument('--save_dir', type=str, default='save/test',
                        help='directory to store checkpointed models')
     parser.add_argument('--rnn_size', type=int, default=256,
                        help='size of RNN hidden state')

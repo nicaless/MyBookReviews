@@ -1,6 +1,8 @@
 import tensorflow as tf
-from tensorflow.python.ops import rnn_cell
-from tensorflow.python.ops import seq2seq
+from tensorflow.contrib import rnn as rnn_cell
+from tensorflow.contrib import legacy_seq2seq as seq2seq
+#from tensorflow.python.ops import rnn_cell
+#from tensorflow.python.ops import seq2seq
 import random
 import numpy as np
 
@@ -54,7 +56,8 @@ class Model():
             variable_summaries(softmax_b)
             with tf.device("/cpu:0"):
                 embedding = tf.get_variable("embedding", [args.vocab_size, args.rnn_size])
-                inputs = tf.split(1, args.seq_length, tf.nn.embedding_lookup(embedding, self.input_data))
+                #inputs = tf.split(1, args.seq_length, tf.nn.embedding_lookup(embedding, self.input_data))
+                inputs = tf.split(tf.nn.embedding_lookup(embedding, self.input_data), args.seq_length, 1)
                 inputs = [tf.squeeze(input_, [1]) for input_ in inputs]
 
         def loop(prev, _):
@@ -63,7 +66,8 @@ class Model():
             return tf.nn.embedding_lookup(embedding, prev_symbol)
 
         outputs, last_state = seq2seq.rnn_decoder(inputs, self.initial_state, cell, loop_function=loop if infer else None, scope='rnnlm')
-        output = tf.reshape(tf.concat(1, outputs), [-1, args.rnn_size])
+        #output = tf.reshape(tf.concat(1, outputs), [-1, args.rnn_size])
+        output = tf.reshape(tf.concat(outputs, 1), [-1, args.rnn_size])
         self.logits = tf.matmul(output, softmax_w) + softmax_b
         self.probs = tf.nn.softmax(self.logits)
         loss = seq2seq.sequence_loss_by_example([self.logits],
