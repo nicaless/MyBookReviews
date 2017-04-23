@@ -33,11 +33,10 @@ opt = parse_args(OptionParser(option_list = option_list))
 file = opt$file
 book.title = opt$title
 
-output.dir <- paste0("../DeepWriting/data/", book.title)
-output.HiPos.txt <- paste0(output.dir, book.title, "_HiPos.txt")
-output.HiNeg.txt <- paste0(output.dir, book.title, "_HiNeg.txt")
-output.LoPos.txt <- paste0(output.dir, book.title, "_LoPos.txt")
-output.LoNeg.txt <- paste0(output.dir, book.title, "_LoNeg.txt")
+output.dir <- paste0("../DeepWriting/data/", book.title, "/")
+output.Hi.txt <- paste0(output.dir, book.title, "_Hi.txt")
+output.Lo.txt <- paste0(output.dir, book.title, "_Lo.txt")
+output.Med.txt <- paste0(output.dir, book.title, "_Med.txt")
 
 # READ DATA
 data <- read.csv(file, stringsAsFactors = FALSE)
@@ -45,7 +44,8 @@ data <- data.table(data)
 
 # KEEP ENGLISH ONLY
 data$language <- as.factor(textcat(data$review))
-data <- data[language == "english"]
+data <- data[language %in% c("english", "scots", "german", 
+                             "middle_frisian", "afrikaans", "breton", "swahili")]
 
 # TURN RATINGS INTO NUMBERS 
 data <- data[rating %in% c('did not like it',
@@ -104,13 +104,13 @@ reviews_joined = merge(data, review_mean_sentiment[, c("review.id", "mean_sentim
 
 
 ## Double Down on High Reviews and High Sentiment
-High = rbind(reviews_joined[reviews_joined$rating > mean(reviews_joined$rating), ],
-             reviews_joined[reviews_joined$mean_sentiment > mean(reviews_joined$mean_sentiment), ])
+High = rbind(reviews_joined[reviews_joined$rating > median(reviews_joined$rating), ],
+             reviews_joined[reviews_joined$mean_sentiment > median(reviews_joined$mean_sentiment), ])
 
 
 ## Double Down on Low Reviews and Low Sentiment
-Low = rbind(reviews_joined[reviews_joined$rating <= mean(reviews_joined$rating), ],
-             reviews_joined[reviews_joined$mean_sentiment <= mean(reviews_joined$mean_sentiment), ])
+Low = rbind(reviews_joined[reviews_joined$rating <= median(reviews_joined$rating), ],
+             reviews_joined[reviews_joined$mean_sentiment <= median(reviews_joined$mean_sentiment), ])
 
 ## Down on Medium Reviews and Medium Sentiment
 Med = rbind(reviews_joined[reviews_joined$rating < mean(reviews_joined$rating) + sd(reviews_joined$rating) &
@@ -120,5 +120,7 @@ Med = rbind(reviews_joined[reviews_joined$rating < mean(reviews_joined$rating) +
             
 
 ## Extract Text from above dataframes and save
-
+write(High$review, file = output.Hi.txt, sep = "\n")
+write(Low$review, file = output.Lo.txt, sep = "\n")
+write(Med$review, file = output.Med.txt, sep = "\n")
 
