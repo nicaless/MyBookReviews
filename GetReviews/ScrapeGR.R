@@ -159,7 +159,7 @@ for(i in 1:p) {
 #                                      " span a"))[1]
 #                                  }))
 
-# WRITE TO CSV AND TXT
+# WRITE TO CSV AND TXT 
 global.df = unique(global.df)
 write.csv(global.df, file = output.full.csv, row.names = F)
 write(global.df$review, file = output.full.txt, sep = "\n")
